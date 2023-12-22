@@ -1,4 +1,4 @@
-[English](#ingles)
+[Español](#spanish)
 
 ## Title
 ### Subtitle
@@ -12,7 +12,7 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 3. Elemento 3
 Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
 
-<a name=»ingles″></a>
+<a name="spanish"></a>
 ## Título
 ### Subtítulo
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
