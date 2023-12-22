@@ -11,7 +11,7 @@ This repository contains the nedeed files to see how an application works, in th
 - .gitignore
     this files is not used due to the absence of sensitive data like password, usernames...
 - Dockerfile
-    with this file I made the node, mongo and mongoexpress docker images
+    with this file you can make the node, mongo and mongoexpress docker images
 - mongo.yaml
     this file used with docker-compose contains the config to start containers and the volume
 
@@ -28,6 +28,6 @@ Este repositorio contiene los archivos necesarios para ver como funciona una apl
 - .gitignore
    este archivo no se usa debido a la ausencia de datos sensibles como claves, nombres de usuario...
 - Dockerfile
-    con este archivo hice las imagenes de node, mongo y mongoexpress
+    con este archivo se pueden hacer las imagenes de node, mongo y mongoexpress
 - mongo.yaml
     este archivo usado con docker-compose contiene la configuración para iniciar los contenedores y el volúmen 
